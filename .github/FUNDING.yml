@@ -1,0 +1,14 @@
+# Sponsorship configuration for the openmcphub org.
+#
+# This file lists funding channels GitHub will display via the "Sponsor"
+# button on every repo in the org. We currently rely on individual sponsorship
+# of the maintainer until the org-level GitHub Sponsors enrollment completes.
+#
+# Once `github_sponsors: openmcphub` is live, the maintainer entry below
+# becomes a fallback only.
+
+# github: openmcphub  # uncomment when org-level Sponsors enrollment lands
+github: [wileverg]
+
+# open_collective: openmcphub  # uncomment if/when an Open Collective is created
+# custom: ['https://openmcphub.org/sponsor']  # uncomment when domain is live
